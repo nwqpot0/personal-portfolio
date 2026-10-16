@@ -7,4 +7,4 @@ Jon Barron template
 - [ ] Scholar (optional?)
 - [ ] github (change usr name?)
 - [ ] Brief
-- [ ] 
+- [ ] Javascript + HTML
